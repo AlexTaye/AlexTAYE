@@ -25,11 +25,11 @@ Prior to commencing my Postgraduate studies, I worked as an Assistant Research O
  
  ****
  
-[Curriculum Vitae Here!](/_pages/Taye_cv.pdf)
- <a href="https://github.com/alextaye/alextaye.github.io/_pages/Taye_cv.pdf" target="_blank"> Curriculum Vitae </a>
+My [Curriculum Vitae](/_pages/Taye_cv.pdf) in pdf
+<!-- <a href="https://github.com/alextaye/alextaye.github.io/_pages/Taye_cv.pdf" target="_blank"> Curriculum Vitae </a>
 
  
-<!--***
+***
 ### My research interests are:
 - Well-posedness of nonlinear and nonlocal/fractional evolutionary PDEs.
 - Long-time behavior and regularity of solutions to PDEs.
