@@ -3,7 +3,7 @@ title: ""
 layout: archive
 classes: wide
 sitemap: true
-permalink: /publications/
+permalink: /research/
 author_profile: true
 toc: true
 toc_label: "Category"
