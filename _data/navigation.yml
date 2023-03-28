@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Home" 
+    url: /
+  - title: "Research"
+    url: /publications/
+  - title: "Links"
+    url: /links/
+  - title: "CV"
+    url: /cv/
+  - title: "Posts"
+    url: /misc/
+  - title: "Contact"
+    url: /contact/
