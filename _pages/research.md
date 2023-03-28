@@ -18,7 +18,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 ## Preprints
 ## Peer-Reviewed Scientific Articles
 -->
-
+|
 **A machine learning approach to predict self-protecting behaviors during the early wave of the COVID-19 pandemic**  
 &nbsp; &nbsp;(joint with Liyousew G. Borga, Samuel Greiff, Claus Vögele, Conchita D’Ambrosio)<br> 
 &nbsp; &nbsp;*Revised and resubmitted, Nature Scientific Reports, 2022*  
@@ -27,7 +27,7 @@ Using a unique harmonised real‐time data set from the COME-HERE longitudinal s
   <!--Manuscript: [RefugeesWork.pdf](/home/files/papers/RefugeesWork.pdf)  
   Supplementary appendix: [RefugeesWork_OnlineAppendix.pdf](/home/files/papers/RefugeesWork_onlineAppendix.pdf)  
   Registered pre-analysis plan: [AEA RCT Registry](https://www.socialscienceregistry.org/trials/3870) -->
-
+|
 ***
 **Vulnerability to Poverty: An Explainable Machine Learning Approach**  
 &nbsp; &nbsp;(joint with C. D'Ambrosio)  
