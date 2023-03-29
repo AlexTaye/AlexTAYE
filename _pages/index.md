@@ -27,7 +27,11 @@ Prior to commencing my Postgraduate studies, I worked as an Assistant Research O
  
 My [Curriculum Vitae](/_pages/Taye_cv.pdf) in pdf
 
+<button style='font-size:24px'>
+ 
+<button onclick="/_pages/Taye_cv.pdf" style='font-size:24px'> My Curriculum Vitae <i class='far fa-file-pdf'></i>
 
+ 
 <!-- 
 <a href="https://github.com/alextaye/alextaye.github.io/_pages/Taye_cv.pdf" target="_blank"> Curriculum Vitae </a>
 ***
