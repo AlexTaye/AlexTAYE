@@ -29,11 +29,14 @@ Prior to commencing my Postgraduate studies, I worked as an Assistant Research O
   <i class="far fa-file-pdf"></i>
 </a>
 
+\
+\
 
 <button style='font-size:14px'>My Curriculum Vitae <i class='far fa-file-pdf'></i>
 My [Curriculum Vitae](/_pages/Taye_cv.pdf) in pdf
 
-
+\
+\
  
 <button onclick="/_pages/Taye_cv.pdf" style='font-size:14px'> 
 
