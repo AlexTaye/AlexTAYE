@@ -25,32 +25,13 @@ Prior to commencing my Postgraduate studies, I worked as an Assistant Research O
  
  ****
 
-<a target="_blank" href="/_pages/Taye_cv.pdf">My Curriculum Vitae
+<a target="_blank" href="/_pages/Taye_cv.pdf"><button style='font-size:14px'> My Curriculum Vitae
   <i class="far fa-file-pdf"></i>
 </a>
 
-\
-\
-
-<button style='font-size:14px'>My Curriculum Vitae <i class='far fa-file-pdf'></i>
-
- \
- \
- \
  
- 
+ <!-- 
  My [Curriculum Vitae](/_pages/Taye_cv.pdf) in pdf
- 
-
-\
-\
- 
-<button onclick="/_pages/Taye_cv.pdf" style='font-size:14px'> 
-
- 
-
- 
-<!-- 
 <a href="https://github.com/alextaye/alextaye.github.io/_pages/Taye_cv.pdf" target="_blank"> Curriculum Vitae </a>
 ***
 ### My research interests are:
