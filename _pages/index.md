@@ -24,12 +24,15 @@ interpretative tools and causal analysis to improve our theoretical understandin
 Prior to commencing my Postgraduate studies, I worked as an Assistant Research Officer in the Economic Modeling and Statistical Analysis Department at the Central Bank of Ethiopia.
  
  ****
- 
+
+<button style='font-size:14px'>My Curriculum Vitae <i class='far fa-file-pdf'></i>
 My [Curriculum Vitae](/_pages/Taye_cv.pdf) in pdf
 
-<button style='font-size:24px'>
+
  
-<button onclick="/_pages/Taye_cv.pdf" style='font-size:24px'> My Curriculum Vitae <i class='far fa-file-pdf'></i>
+<button onclick="/_pages/Taye_cv.pdf" style='font-size:14px'> 
+
+ 
 
  
 <!-- 
