@@ -33,7 +33,14 @@ Prior to commencing my Postgraduate studies, I worked as an Assistant Research O
 \
 
 <button style='font-size:14px'>My Curriculum Vitae <i class='far fa-file-pdf'></i>
-My [Curriculum Vitae](/_pages/Taye_cv.pdf) in pdf
+
+ \
+ \
+ \
+ 
+ 
+ My [Curriculum Vitae](/_pages/Taye_cv.pdf) in pdf
+ 
 
 \
 \
