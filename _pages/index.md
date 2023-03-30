@@ -25,13 +25,11 @@ Prior to commencing my Postgraduate studies, I worked as an Assistant Research O
  
  ***
  
-<a target="_blank" href="/_pages/Taye_cv.pdf">My Curriculum Vitae
+My Curriculum Vitae <a target="_blank" href="/_pages/Taye_cv.pdf">
   <i class="far fa-file-pdf"></i>
 </a>
  
- <!-- 
-
- My [Curriculum Vitae](/_pages/Taye_cv.pdf) in pdf
+ <!-- My [Curriculum Vitae](/_pages/Taye_cv.pdf) in pdf
 <a href="https://github.com/alextaye/alextaye.github.io/_pages/Taye_cv.pdf" target="_blank"> Curriculum Vitae </a>
 ***
 ### My research interests are:
