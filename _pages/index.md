@@ -22,15 +22,15 @@ interpretative tools and causal analysis to improve our theoretical understandin
 <br>
 <br>
 Prior to commencing my Postgraduate studies, I worked as an Assistant Research Officer in the Economic Modeling and Statistical Analysis Department at the Central Bank of Ethiopia.
+ 
  ***
  
- Here!
-
 <a target="_blank" href="/_pages/Taye_cv.pdf">My Curriculum Vitae
   <i class="far fa-file-pdf"></i>
 </a>
  
  <!-- 
+
  My [Curriculum Vitae](/_pages/Taye_cv.pdf) in pdf
 <a href="https://github.com/alextaye/alextaye.github.io/_pages/Taye_cv.pdf" target="_blank"> Curriculum Vitae </a>
 ***
@@ -40,16 +40,10 @@ Prior to commencing my Postgraduate studies, I worked as an Assistant Research O
 - Numerical analysis of PDEs.
 - Applications of PDEs, e.g., in nonlinear acoustics, fluid dynamics, and tumor growth modeling (corresponding to the images on the right hand side from top to bottom, respectively).
 
-
-
-
-
  <br> <span style="color:red">**Research Highlight:**</span>
 *See <a href="https://www.llnl.gov/news/llnl-led-team-uses-machine-learning-derive-black-hole-motion-gravitational-waves">this press release</a> about my recent work on machine learning and black holes!*
-<br> -->
-
-
-<!-- <br> 
+<br> 
+ <br> 
 ## Current Research Grants
 **LDRD&nbsp;&nbsp;2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization (PI, *$450,000/year*)
 
