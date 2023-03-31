@@ -13,6 +13,10 @@ toc_icon: "gear"
 ## Alemayehu D. Taye
 [Email](mailto:alemsight@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alex2446/) | [GitHub](https://github.com/alextaye)
 -->
+You can download my full <a target="_blank" href="/_pages/Taye_cv.pdf">Curriculum Vitae <i class="far fa-file-pdf"></i></a> here! 
+
+***
+
 ## Education
 
 - PhD in Economics, University of Luxembourg, 2019 - 2023.
