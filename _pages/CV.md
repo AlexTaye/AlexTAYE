@@ -10,35 +10,18 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-## Complete CV
+## Short Curriculum Vitae
+## Alemayehu D. Taye
 
-Upon request.
-
-## Short CV
-
-### Work Experience
-- 10/2022 — X: Postdoctoral researcher at **Johann Radon Institute for Computational and Applied Mathematics**
-- 04/2022 — 06/2022: Postdoctoral researcher at **Technical University of Munich**
-- 01/2018 — 04/2022: Doctoral researcher at **Technical University of Munich**
-- 06/2018 — 07/2018: Guest researcher at **University of Texas at Austin**
-
+[Email](mailto:alemsight@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alex2446/) | [GitHub](https://github.com/alextaye)
 
 ### Education
-- 01/2018 — 04/2022: **Dr. rer. nat.** at Technical University of Munich
-- 10/2015 — 11/2017: **M.Sc.** in Mathematics at Technical University of Munich
-- 10/2012 — 09/2015: **B.Sc.** in Mathematics at Technical University of Munich
+- PhD in Economics, University of Luxembourg, 2019 - 2022.
+- Master of Arts in Economics and Econometrics, CERGE-EI, Prague, Czechia, 2016 - 2018.
+- Master of Science in Economics and Finance, Charles University, Prague, Czechia, 2013 - 2015.
+- Bachelor of Science in Computer Science, Haramaya University, Ethiopia, 2007 - 2010.
 
-# Your Name
-
-[Email](mailto:youremail@email.com) | [LinkedIn](https://www.linkedin.com/in/yourname/) | [GitHub](https://github.com/yourusername)
-
-## Education
-
-- PhD in Computer Science, University of X, YYYY - YYYY
-- Master of Science in Computer Science, University of Y, YYYY - YYYY
-- Bachelor of Science in Computer Science, University of Z, YYYY - YYYY
-
-## Research Interests
+### Research Interests
 
 - List of research interests
 
