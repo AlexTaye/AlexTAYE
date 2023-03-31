@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "Short Curriculum Vitae"
 layout: archive
 sitemap: true
 permalink: /cv/
@@ -9,14 +9,12 @@ toc: true
 toc_label: "Category"
 toc_icon: "gear"
 ---
-
-## Short Curriculum Vitae
 ## Alemayehu D. Taye
 
 [Email](mailto:alemsight@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alex2446/) | [GitHub](https://github.com/alextaye)
 
 ### Education
-- PhD in Economics, University of Luxembourg, 2019 - 2022.
+- PhD in Economics, University of Luxembourg, 2019 - 2023.
 - Master of Arts in Economics and Econometrics, CERGE-EI, Prague, Czechia, 2016 - 2018.
 - Master of Science in Economics and Finance, Charles University, Prague, Czechia, 2013 - 2015.
 - Bachelor of Science in Computer Science, Haramaya University, Ethiopia, 2007 - 2010.
