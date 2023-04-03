@@ -36,7 +36,7 @@ toc_icon: "gear"
 
 ***
 
-## Research Experience
+## <i class='fas fa-briefcase' style='font-size:24px'></i> Work Experience
 
 ### Research Assistant, University of X, YYYY - present
 
