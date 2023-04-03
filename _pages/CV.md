@@ -35,10 +35,6 @@ toc_icon: "gear"
 
 - Description of graduate researcher responsibilities and projects
 
-***
-
-## Teaching Experience
-
 ### Teaching Assistant, University of Z, YYYY - YYYY
 
 - Description of teaching assistant responsibilities
