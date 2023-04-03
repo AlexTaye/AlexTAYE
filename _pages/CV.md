@@ -27,34 +27,41 @@ toc_icon: "gear"
 
 ## <i class='fas fa-briefcase' style='font-size:20px'></i> Work Experience
 
-### Research Assistant, University of X, YYYY - present
+### Doctoral Researcher, University of Luxembourg, 2019 - 2023.
 
 - Description of research assistant responsibilities and projects
 
-### Graduate Researcher, University of Y, YYYY - YYYY
+### Assistant Research officer, Central Bank of Ethiopia, 2010 - 2013.
 
 - Description of graduate researcher responsibilities and projects
 
-### Teaching Assistant, University of Z, YYYY - YYYY
+### Teaching Assistant, Haramaya University , 2009.
 
 - Description of teaching assistant responsibilities
 
-### Instructor, Summer Program, YYYY
+### Research Intern, Ethiopian Economics Association, 2008.
 
 - Description of instructor responsibilities and courses taught
 
 
 ## <i class='fas fa-puzzle-piece' style='font-size:20px'></i> Research Interests
-- List of research interests
+- Applied microeconomics, labour and development economics, economics of wellbeing, family economics,
+and the intersection of machine learning and microeconometrics
 
 
 
 ## <i class='far fa-list-alt' style='font-size:20px'></i> Skills
-- List of skills
++ Languages: Amharic–Native, Affan Oromo–Native, English–Fluent, French–Elementary, and Czech–Basic.
++ Text Editor: LATEX, Markdown (with Python and R), and Microsoft Office.
++ Data Processing: STATA, Python, and R.
++ Data Visualisation: Plotly, Matplotlib, Seaborn, Dash, and ggplot.
++ Machine Learning: Scikit-learn, Keras, Tensorflow, PyTorch and more
 
 
-
-## <i class='fas fa-award' style='font-size:20px'></i> Awards and Honors
-- List of awards and honors
-
+## <i class='fas fa-award' style='font-size:20px'></i> Honors and Scholarships 
+- “PRIDE” PhD Scholarship, Fonds National de la Recherche Luxembourg (FNR). Feb 2019
+- Direct admission with full scholarships, CERGE-EI. Sep 2015
+- Scholarships for excellent results in the final general Exam, Czech Ministry of Education. Jun 2015
+- Czech government full scholarships for graduate students with an outstanding curriculum. Oct 2013
+- BA in Economics with Great Distinction [Ranked 1st], Haramaya University. Jul 2010
 
