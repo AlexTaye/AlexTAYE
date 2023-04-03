@@ -53,10 +53,22 @@ and the intersection of machine learning and microeconometrics
 + **Text Editor:** LATEX, Markdown (with Python and R), and Microsoft Office.
 + **Data Processing:** STATA, Python, and R.
 + **Data Visualisation:** Plotly, Matplotlib, Seaborn, Dash, and ggplot.
-+ ** Machine Learning:** Scikit-learn, Keras, Tensorflow, PyTorch and more
++ **Machine Learning:** Scikit-learn, Keras, Tensorflow, PyTorch and more
 
 
 ## <i class='fas fa-award' style='font-size:20px'></i> Honors and Scholarships 
+<details>
+<summary>List</summary>
+<ul>
+  <li>“PRIDE” PhD Scholarship, Fonds National de la Recherche Luxembourg (FNR), 2019.</li>
+  <li>Direct admission with full scholarships, CERGE-EI, 2015.</li>
+  <li>Scholarships for excellent results in the final general Exam, Czech Ministry of Education, 2015.</li>
+  <li>Czech government full scholarships for graduate students with an outstanding curriculum, 2013.</li>
+  <li>BA in Economics with Great Distinction [Ranked 1st], Haramaya University, 2010.</li>
+ </ul>
+</details>
+
+
 - “PRIDE” PhD Scholarship, Fonds National de la Recherche Luxembourg (FNR), 2019.
 - Direct admission with full scholarships, CERGE-EI, 2015.
 - Scholarships for excellent results in the final general Exam, Czech Ministry of Education, 2015.
