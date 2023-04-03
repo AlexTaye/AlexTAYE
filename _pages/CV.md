@@ -25,17 +25,6 @@ toc_icon: "gear"
 - Bachelor of Science in Computer Science, Haramaya University, Ethiopia, 2007 - 2010.
 
 ***
-
-## <i class='fas fa-puzzle-piece' style='font-size:24px'></i> Research Interests
-- List of research interests
-
-***
-
-## <i class='fas fa-award' style='font-size:24px'></i> Awards and Honors
-- List of awards and honors
-
-***
-
 ## <i class='fas fa-briefcase' style='font-size:24px'></i> Work Experience
 
 ### Research Assistant, University of X, YYYY - present
@@ -60,11 +49,18 @@ toc_icon: "gear"
 
 *** 
 
+## <i class='fas fa-puzzle-piece' style='font-size:24px'></i> Research Interests
+- List of research interests
+
+***
+
 ## <i class='fas fa-tools' style='font-size:24px'></i> <i class='far fa-list-alt' style='font-size:24px'></i>
  Skills
 - List of skills
 
+***
 
-## References
+## <i class='fas fa-award' style='font-size:24px'></i> Awards and Honors
+- List of awards and honors
 
-- List of references
+
