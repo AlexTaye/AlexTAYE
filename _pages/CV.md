@@ -12,10 +12,7 @@ toc_icon: "gear"
 <!--
 ## Alemayehu D. Taye
 [Email](mailto:alemsight@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alex2446/) | [GitHub](https://github.com/alextaye)
--->
-<i class='fas fa-download' style='font-size:18px'></i> You can download my full <a target="_blank" href="/_pages/Taye_cv.pdf">Curriculum Vitae <i class="far fa-file-pdf"></i></a> here. 
-
-***
+--> 
 
 ## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
 
