@@ -26,24 +26,13 @@ toc_icon: "gear"
 
 
 ## <i class='fas fa-briefcase' style='font-size:20px'></i> Work Experience
-<details>
-<summary>List</summary>
-### Doctoral Researcher, University of Luxembourg, 2019 - 2023.
 
-- Description of research assistant responsibilities and projects
+#### Doctoral Researcher, University of Luxembourg, 2019 - 2023.
+#### Assistant Research officer, Central Bank of Ethiopia, 2010 - 2013.
+#### Teaching Assistant, Haramaya University , 2009.
+#### Research Intern, Ethiopian Economics Association, 2008.
 
-### Assistant Research officer, Central Bank of Ethiopia, 2010 - 2013.
 
-- Description of graduate researcher responsibilities and projects
-
-### Teaching Assistant, Haramaya University , 2009.
-
-- Description of teaching assistant responsibilities
-
-### Research Intern, Ethiopian Economics Association, 2008.
-
-- Description of instructor responsibilities and courses taught
-</details>
 
 
 ## <i class='fas fa-puzzle-piece' style='font-size:20px'></i> Research Interests
