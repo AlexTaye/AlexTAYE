@@ -60,7 +60,7 @@ toc_icon: "gear"
 
 *** 
 
-## Skills
+## <i class='fas fa-tools' style='font-size:24px'></i> Skills
 - List of skills
 
 
