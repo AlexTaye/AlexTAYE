@@ -17,7 +17,7 @@ You can download my full <a target="_blank" href="/_pages/Taye_cv.pdf">Curriculu
 
 ***
 
-## Education
+## <i class='fas fa-graduation-cap' style='font-size:24px'></i> Education
 
 - PhD in Economics, University of Luxembourg, 2019 - 2023.
 - Master of Arts in Economics and Econometrics, CERGE-EI, Prague, Czechia, 2016 - 2018.
