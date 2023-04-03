@@ -31,7 +31,7 @@ You can download my full <a target="_blank" href="/_pages/Taye_cv.pdf">Curriculu
 
 ***
 
-## Awards and Honors
+## <i class='fas fa-award' style='font-size:24px'></i> Awards and Honors
 - List of awards and honors
 
 ***
