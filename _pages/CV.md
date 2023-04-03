@@ -26,7 +26,7 @@ toc_icon: "gear"
 
 ***
 
-## Research Interests
+## <i class='fas fa-puzzle-piece' style='font-size:24px'></i> Research Interests
 - List of research interests
 
 ***
