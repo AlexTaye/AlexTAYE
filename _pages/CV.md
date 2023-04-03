@@ -26,7 +26,8 @@ toc_icon: "gear"
 
 
 ## <i class='fas fa-briefcase' style='font-size:20px'></i> Work Experience
-
+<details>
+<summary>List</summary>
 ### Doctoral Researcher, University of Luxembourg, 2019 - 2023.
 
 - Description of research assistant responsibilities and projects
@@ -42,6 +43,7 @@ toc_icon: "gear"
 ### Research Intern, Ethiopian Economics Association, 2008.
 
 - Description of instructor responsibilities and courses taught
+</details>
 
 
 ## <i class='fas fa-puzzle-piece' style='font-size:20px'></i> Research Interests
