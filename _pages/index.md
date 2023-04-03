@@ -11,7 +11,7 @@ Welcome to my homepage!
 
 ***
 
-I am a PhD candidate in Economics (expected date of defence: March 2023) at the <a href="https://wwwen.uni.lu/fdef/department_of_economics_and_management/"> University of Luxembourg</a> (Department of Economics and Management) in Data-driven Computational Modelling and Applications <a href="https://driven.uni.lu/team/"> (DRIVEN)</a> research team.
+I am Alex Taye, currently on economics job market. Before that, I was a doctoral researcher in Economics at the <a href="https://wwwen.uni.lu/fdef/department_of_economics_and_management/"> University of Luxembourg</a> (Department of Economics and Management) in Data-driven Computational Modelling and Applications <a href="https://driven.uni.lu/team/"> (DRIVEN)</a> research team.
 <br>
 <br>
 My main research interest lies in the field of applied microeconomics, poverty, labour economics, and the intersection of machine learning and microeconometrics.
