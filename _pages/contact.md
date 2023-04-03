@@ -17,8 +17,9 @@ toc_icon: "gear"
 
 <i class='fas fa-phone' style='font-size:30px'></i> +352 691 141 138
 
-<iframe width="95%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.944043397903443%2C49.5029246890642%2C5.948549509048463%2C49.50559313248484&amp;layer=mapnik&amp;marker=49.504258928966074%2C5.946296453475952" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=49.50426&amp;mlon=5.94630#map=18/49.50426/5.94630">View Larger Map</a></small>
+<iframe width="90%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=5.944043397903443%2C49.5029246890642%2C5.948549509048463%2C49.50559313248484&amp;layer=mapnik&amp;marker=49.504258928966074%2C5.946296453475952" style="border: 1px solid black"></iframe>
 
+<!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2590.950377983036!2d5.944897715379736!3d49.50433107935612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47eacad3bf1a6bcd%3A0x7420aaa22c79d266!2sMaison%20des%20Sciences%20Humaines%20-%20Universit%C3%A9%20de%20Luxembourg!5e0!3m2!1sen!2slu!4v1680002994025!5m2!1sen!2slu" width="95%" height="400px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
