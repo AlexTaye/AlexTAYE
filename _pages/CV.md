@@ -59,9 +59,9 @@ and the intersection of machine learning and microeconometrics
 
 
 ## <i class='fas fa-award' style='font-size:20px'></i> Honors and Scholarships 
-- “PRIDE” PhD Scholarship, Fonds National de la Recherche Luxembourg (FNR). Feb 2019
-- Direct admission with full scholarships, CERGE-EI. Sep 2015
-- Scholarships for excellent results in the final general Exam, Czech Ministry of Education. Jun 2015
-- Czech government full scholarships for graduate students with an outstanding curriculum. Oct 2013
-- BA in Economics with Great Distinction [Ranked 1st], Haramaya University. Jul 2010
+- “PRIDE” PhD Scholarship, Fonds National de la Recherche Luxembourg (FNR), 2019.
+- Direct admission with full scholarships, CERGE-EI, 2015.
+- Scholarships for excellent results in the final general Exam, Czech Ministry of Education, 2015.
+- Czech government full scholarships for graduate students with an outstanding curriculum, 2013.
+- BA in Economics with Great Distinction [Ranked 1st], Haramaya University, 2010.
 
