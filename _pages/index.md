@@ -25,5 +25,5 @@ Prior to commencing my Postgraduate studies, I worked as an Assistant Research O
  
  ***
  
-My <a target="_blank" href="/_pages/Taye_cv.pdf">Curriculum Vitae <i class="far fa-file-pdf"></i></a>
+<i class='fas fa-download' style='font-size:18px'></i> You can download my full <a target="_blank" href="/_pages/Taye_cv.pdf">Curriculum Vitae <i class="far fa-file-pdf"></i></a> here.
  
