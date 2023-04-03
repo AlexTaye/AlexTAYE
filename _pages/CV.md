@@ -48,14 +48,12 @@ toc_icon: "gear"
 - Applied microeconomics, labour and development economics, economics of wellbeing, family economics,
 and the intersection of machine learning and microeconometrics
 
-
-
 ## <i class='far fa-list-alt' style='font-size:20px'></i> Skills
-+ Languages: Amharic–Native, Affan Oromo–Native, English–Fluent, French–Elementary, and Czech–Basic.
-+ Text Editor: LATEX, Markdown (with Python and R), and Microsoft Office.
-+ Data Processing: STATA, Python, and R.
-+ Data Visualisation: Plotly, Matplotlib, Seaborn, Dash, and ggplot.
-+ Machine Learning: Scikit-learn, Keras, Tensorflow, PyTorch and more
++ **Languages:** Amharic–Native, Affan Oromo–Native, English–Fluent, French–Elementary, and Czech–Basic.
++ **Text Editor:** LATEX, Markdown (with Python and R), and Microsoft Office.
++ **Data Processing:** STATA, Python, and R.
++ **Data Visualisation:** Plotly, Matplotlib, Seaborn, Dash, and ggplot.
++ ** Machine Learning:** Scikit-learn, Keras, Tensorflow, PyTorch and more
 
 
 ## <i class='fas fa-award' style='font-size:20px'></i> Honors and Scholarships 
