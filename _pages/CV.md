@@ -54,8 +54,7 @@ toc_icon: "gear"
 
 ***
 
-## <i class='fas fa-tools' style='font-size:24px'></i> <i class='far fa-list-alt' style='font-size:24px'></i>
- Skills
+## <i class='fas fa-tools' style='font-size:24px'></i> <i class='far fa-list-alt' style='font-size:24px'></i> Skills
 - List of skills
 
 ***
