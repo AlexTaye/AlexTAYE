@@ -17,15 +17,15 @@ toc_icon: "gear"
 
 ***
 
-## <i class='fas fa-graduation-cap' style='font-size:24px'></i> Education
+## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
 
 - PhD in Economics, University of Luxembourg, 2019 - 2023.
 - Master of Arts in Economics and Econometrics, CERGE-EI, Prague, Czechia, 2016 - 2018.
 - Master of Science in Economics and Finance, Charles University, Prague, Czechia, 2013 - 2015.
 - Bachelor of Science in Computer Science, Haramaya University, Ethiopia, 2007 - 2010.
 
-***
-## <i class='fas fa-briefcase' style='font-size:24px'></i> Work Experience
+
+## <i class='fas fa-briefcase' style='font-size:20px'></i> Work Experience
 
 ### Research Assistant, University of X, YYYY - present
 
@@ -43,19 +43,18 @@ toc_icon: "gear"
 
 - Description of instructor responsibilities and courses taught
 
-*** 
 
-## <i class='fas fa-puzzle-piece' style='font-size:24px'></i> Research Interests
+## <i class='fas fa-puzzle-piece' style='font-size:20px'></i> Research Interests
 - List of research interests
 
-***
 
-## <i class='far fa-list-alt' style='font-size:24px'></i> Skills
+
+## <i class='far fa-list-alt' style='font-size:20px'></i> Skills
 - List of skills
 
-***
 
-## <i class='fas fa-award' style='font-size:24px'></i> Awards and Honors
+
+## <i class='fas fa-award' style='font-size:20px'></i> Awards and Honors
 - List of awards and honors
 
 
