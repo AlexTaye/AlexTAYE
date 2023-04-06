@@ -31,9 +31,6 @@ toc_icon: "gear"
 - Teaching Assistant, Haramaya University , 2009.
 - Research Intern, Ethiopian Economics Association, 2008.
 
-```{r}
-print_text_block(text_blocks, 'intro')
-```
 
 
 ## <i class='fas fa-puzzle-piece' style='font-size:20px'></i> Research Interests
