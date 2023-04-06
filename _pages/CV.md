@@ -28,7 +28,7 @@ toc_icon: "gear"
 ## <i class='fas fa-briefcase' style='font-size:20px'></i> Work Experience
 - Doctoral Researcher, University of Luxembourg, 2019 - 2023.
 - Assistant Research officer, Central Bank of Ethiopia, 2010 - 2013.
-- Teaching Assistant, Haramaya University , 2009.
+- Teaching Assistant, Haramaya University, 2009.
 - Research Intern, Ethiopian Economics Association, 2008.
 
 
