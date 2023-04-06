@@ -11,8 +11,9 @@ toc_icon: "gear"
 ---
 
 _This page is currently under development!_
-<!--Some other stuff that you might find interesting.
 
+
+<!--Some other stuff that you might find interesting.
 ## (Useful) links
 - [Overview of upcoming online math talks](https://researchseminars.org/)
 - [Math conference calendar by AMS](https://www.ams.org/meetings/calendar/mathcal)
