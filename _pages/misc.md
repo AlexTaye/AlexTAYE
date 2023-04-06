@@ -10,7 +10,8 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-Some other stuff that you might find interesting.
+_This page is currently under development!_
+<!--Some other stuff that you might find interesting.
 
 ## (Useful) links
 - [Overview of upcoming online math talks](https://researchseminars.org/)
@@ -33,5 +34,5 @@ intuition of physics, biology, and other sciences." <br /> -- Terence Tao
 ## Books that I like
 <img src="/assets/images/allbooks.png" width="100%" height="auto"/>
 
-
+-->
 
