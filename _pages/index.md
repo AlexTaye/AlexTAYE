@@ -21,7 +21,7 @@ I worked extensively on topics such as predicting vulnerability to poverty, mate
 interpretative tools and causal analysis to improve our theoretical understanding of complex social phenomena.
 <br>
 <br>
-Prior to commencing my Postgraduate studies, I worked as an Assistant Research Officer in the Economic Modeling and Statistical Analysis Department at the Central Bank of Ethiopia.
+Prior to commencing my postgraduate studies, I worked as an Assistant Research Officer in the Economic Modeling and Statistical Analysis Department at the Central Bank of Ethiopia.
  
  ***
  
