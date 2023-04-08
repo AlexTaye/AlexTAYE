@@ -22,7 +22,7 @@ toc_icon: "gear"
 - PhD in Economics, University of Luxembourg, 2019 - 2023.
 - Master of Arts in Economics and Econometrics, CERGE-EI, Prague, Czechia, 2016 - 2018.
 - Master of Science in Economics and Finance, Charles University, Prague, Czechia, 2013 - 2015.
-- Bachelor of Science in Computer Science, Haramaya University, Ethiopia, 2007 - 2010.
+- Bachelor of Arts in Economics, Haramaya University, Ethiopia, 2007 - 2010.
 
 
 ## <i class='fas fa-briefcase' style='font-size:20px'></i> Work Experience
