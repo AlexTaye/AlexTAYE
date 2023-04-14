@@ -17,6 +17,22 @@ toc_icon: "gear"
 
 ***
   
+  ## Timeline
+
+<details>
+  <summary>YYYY</summary>
+
+  - Item 1
+  - Item 2
+</details>
+
+<details>
+  <summary>YYYY</summary>
+
+  - Item 1
+  - Item 2
+</details>
+
 ## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
 
 - PhD in Economics, University of Luxembourg, 2019 - 2023.
