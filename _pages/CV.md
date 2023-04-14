@@ -17,32 +17,63 @@ toc_icon: "gear"
 
 ***
 
+## Work Experience
+
 <div class="timeline">
-  <div class="entry">
-    <div class="title">2019 - Present</div>
-    <div class="body">
-      <h3>Senior Data Scientist</h3>
-      <h4>Acme Corporation</h4>
-      <p>Develop reproducible data pipelines and statistical models to support the Economic and Market Analysis division's analytical work. Monitor and analyze macroeconomic and financial market developments in the euro area and global economy. Contribute to policy design and translate analytical results into operational action.</p>
-    </div>
+
+<!-- Job 1 -->
+<div class="timeline-item">
+  <div class="timeline-item-content">
+    <h3>Senior Data Analyst</h3>
+    <h4>ABC Company</h4>
+    <p><em>Jan 2020 - Present</em></p>
+    <ul>
+      <li>Developed reproducible data pipelines using Python and SQL to support the analysis of large data sets, resulting in a 50% reduction in time spent on data cleaning and preparation</li>
+      <li>Conducted quantitative analysis and modeling of economic and financial data, providing insights to senior management for decision-making</li>
+      <li>Collaborated with cross-functional teams to design and implement dashboards and visualizations using Tableau and Power BI</li>
+    </ul>
   </div>
-  <div class="entry">
-    <div class="title">2017 - 2019</div>
-    <div class="body">
-      <h3>Data Scientist</h3>
-      <h4>Beta Corp</h4>
-      <p>Analyzed large data sets including corporate micro data, fixed income, derivatives pricing, etc. Developed statistical/econometric tools and models to support the division's research and policy work. Applied data science techniques, including automated machine learning pipelines and interactive data visualizations.</p>
-    </div>
-  </div>
-  <div class="entry">
-    <div class="title">2015 - 2017</div>
-    <div class="body">
-      <h3>Quantitative Analyst</h3>
-      <h4>Gamma LLC</h4>
-      <p>Conducted targeted ad hoc quantitative analysis on topics of relevance to the Economic and Market Analysis division. Supported the division on decisions involving data architecture and IT solutions. Monitored and analyzed macroeconomic and financial market developments in euro area member states, the euro area at large, and the global economy.</p>
-    </div>
+  <div class="timeline-item-date">
+    <span>Jan 2020</span>
   </div>
 </div>
+
+<!-- Job 2 -->
+<div class="timeline-item">
+  <div class="timeline-item-content">
+    <h3>Data Scientist</h3>
+    <h4>XYZ Corporation</h4>
+    <p><em>May 2017 - Dec 2019</em></p>
+    <ul>
+      <li>Developed machine learning models to predict customer behavior and improve marketing effectiveness, resulting in a 20% increase in revenue</li>
+      <li>Collaborated with IT department to design and implement data warehouse architecture and ETL processes, ensuring data integrity and availability</li>
+      <li>Developed statistical models to analyze A/B test results, improving the accuracy of the company's experimentation process</li>
+    </ul>
+  </div>
+  <div class="timeline-item-date">
+    <span>May 2017</span>
+  </div>
+</div>
+
+<!-- Job 3 -->
+<div class="timeline-item">
+  <div class="timeline-item-content">
+    <h3>Research Assistant</h3>
+    <h4>University of Economics</h4>
+    <p><em>Aug 2015 - Apr 2017</em></p>
+    <ul>
+      <li>Conducted literature reviews and data analysis for research projects in the field of macroeconomics and finance</li>
+      <li>Assisted with the preparation of research papers and presentations for academic conferences</li>
+      <li>Collaborated with senior researchers and faculty members to develop research proposals and grant applications</li>
+    </ul>
+  </div>
+  <div class="timeline-item-date">
+    <span>Aug 2015</span>
+  </div>
+</div>
+
+</div> <!-- end timeline -->
+
 
   
 ## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
