@@ -16,6 +16,17 @@ toc_icon: "gear"
 <i class='fas fa-download' style='font-size:18px'></i> You can download my full <a target="_blank" href="/_pages/Taye_cv.pdf">Curriculum Vitae <i class="far fa-file-pdf"></i></a> here.
 
 ***
+
+<li>
+  <div class="timeline-item">
+    <span class="timeline-date">May 2018 - Present</span>
+    <div class="timeline-content">
+      <h3>Job Title</h3>
+      <h4>Company Name</h4>
+      <p>Job description here</p>
+    </div>
+  </div>
+</li>
   
 ## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
 
