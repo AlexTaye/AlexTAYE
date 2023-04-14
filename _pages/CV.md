@@ -17,6 +17,20 @@ toc_icon: "gear"
 
 ***
 
+timeline.zip
+  |
+  | - train
+  |     | - coco_format.json // the annotations of the training images
+  |     | - f002.jpg
+  |     | - f002.T.jpg // the rotated f001.jpg
+  |     | ...
+  |
+  | - val
+  |    | - coco_format.json // the annotations of the testing images
+  |    | - f001.jpg
+  |    | ...
+  
+  
 ## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
 
 - PhD in Economics, University of Luxembourg, 2019 - 2023.
