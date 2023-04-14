@@ -17,16 +17,33 @@ toc_icon: "gear"
 
 ***
 
-<li>
-  <div class="timeline-item">
-    <span class="timeline-date">May 2018 - Present</span>
-    <div class="timeline-content">
-      <h3>Job Title</h3>
-      <h4>Company Name</h4>
-      <p>Job description here</p>
+<div class="timeline">
+  <div class="entry">
+    <div class="title">2019 - Present</div>
+    <div class="body">
+      <h3>Senior Data Scientist</h3>
+      <h4>Acme Corporation</h4>
+      <p>Develop reproducible data pipelines and statistical models to support the Economic and Market Analysis division's analytical work. Monitor and analyze macroeconomic and financial market developments in the euro area and global economy. Contribute to policy design and translate analytical results into operational action.</p>
     </div>
   </div>
-</li>
+  <div class="entry">
+    <div class="title">2017 - 2019</div>
+    <div class="body">
+      <h3>Data Scientist</h3>
+      <h4>Beta Corp</h4>
+      <p>Analyzed large data sets including corporate micro data, fixed income, derivatives pricing, etc. Developed statistical/econometric tools and models to support the division's research and policy work. Applied data science techniques, including automated machine learning pipelines and interactive data visualizations.</p>
+    </div>
+  </div>
+  <div class="entry">
+    <div class="title">2015 - 2017</div>
+    <div class="body">
+      <h3>Quantitative Analyst</h3>
+      <h4>Gamma LLC</h4>
+      <p>Conducted targeted ad hoc quantitative analysis on topics of relevance to the Economic and Market Analysis division. Supported the division on decisions involving data architecture and IT solutions. Monitored and analyzed macroeconomic and financial market developments in euro area member states, the euro area at large, and the global economy.</p>
+    </div>
+  </div>
+</div>
+
   
 ## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
 
