@@ -19,19 +19,20 @@ toc_icon: "gear"
   
   ## Timeline
 
-<details>
-  <summary>YYYY</summary>
+### Experience
 
-  - Item 1
-  - Item 2
-</details>
+* **Data Analyst**
+  | ~May 2020 – Present~ | Company Name | 
+  | - | - |
+  
+* **Business Analyst**
+  | ~Jan 2018 – Apr 2020~ | Company Name |
+  | - | - |
+  
+* **Research Intern**
+  | ~Jun 2017 – Dec 2017~ | Company Name |
+  | - | - |
 
-<details>
-  <summary>YYYY</summary>
-
-  - Item 1
-  - Item 2
-</details>
 
 ## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
 
