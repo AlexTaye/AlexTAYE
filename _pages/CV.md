@@ -16,20 +16,6 @@ toc_icon: "gear"
 <i class='fas fa-download' style='font-size:18px'></i> You can download my full <a target="_blank" href="/_pages/Taye_cv.pdf">Curriculum Vitae <i class="far fa-file-pdf"></i></a> here.
 
 ***
-
-timeline.zip
-  |
-  | - train
-  |     | - coco_format.json // the annotations of the training images
-  |     | - f002.jpg
-  |     | - f002.T.jpg // the rotated f001.jpg
-  |     | ...
-  |
-  | - val
-  |    | - coco_format.json // the annotations of the testing images
-  |    | - f001.jpg
-  |    | ...
-  
   
 ## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
 
