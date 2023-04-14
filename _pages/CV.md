@@ -17,23 +17,6 @@ toc_icon: "gear"
 
 ***
   
-  ## Timeline
-
-### Experience
-
-* **Data Analyst**
-  | ~May 2020 – Present~ | Company Name | 
-  | - | - |
-  
-* **Business Analyst**
-  | ~Jan 2018 – Apr 2020~ | Company Name |
-  | - | - |
-  
-* **Research Intern**
-  | ~Jun 2017 – Dec 2017~ | Company Name |
-  | - | - |
-
-
 ## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
 
 - PhD in Economics, University of Luxembourg, 2019 - 2023.
