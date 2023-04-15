@@ -16,6 +16,35 @@ toc_icon: "gear"
 <i class='fas fa-download' style='font-size:18px'></i> You can download my full <a target="_blank" href="/_pages/Taye_cv.pdf">Curriculum Vitae <i class="far fa-file-pdf"></i></a> here.
 
 ***
+## Work Experience
+
+### Senior Data Analyst
+**ABC Company** | New York, NY | Jan 2020 - Present
+
+- Develop reproducible data pipelines to serve the data, analysis, and basic statistical needs of the division.
+- Contribute to designing the structure of standard data as well as to the efficient data dissemination strategy in relation to the division’s various data-driven workstreams.
+- Automate processes and ensure horizontal coordination of data-related processes in relation to the division’s research and policy work.
+- Develop statistical/econometric tools, models, and the necessary infrastructure to support the division’s analytical work.
+- Apply data science techniques, including automated machine learning pipelines and interactive data visualisations.
+- Contribute to policy design and to the translation of analytical results into operational action.
+
+### Data Analyst
+**XYZ Corporation** | San Francisco, CA | Aug 2018 - Dec 2019
+
+- Conducted data analysis on customer behavior and trends using SQL, Python, and Tableau.
+- Developed predictive models to improve customer retention and increase revenue.
+- Created automated reports and dashboards for stakeholders using business intelligence tools.
+- Collaborated with cross-functional teams to develop and implement data-driven solutions.
+- Presented findings and recommendations to senior leadership.
+
+### Research Assistant
+**123 University** | Boston, MA | Jan 2017 - May 2018
+
+- Conducted research on macroeconomic trends and financial market developments.
+- Assisted in developing econometric models to forecast economic growth and inflation.
+- Conducted statistical analysis on large datasets using R and Stata.
+- Prepared presentations and reports summarizing research findings.
+
 
 ## Work Experience
 
