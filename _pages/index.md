@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-Welcome to my homepage!
+Welcome to my website!
 
 ***
 
