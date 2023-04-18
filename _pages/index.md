@@ -23,7 +23,8 @@ interpretative tools and causal analysis to improve our theoretical understandin
 <br>
 Prior to commencing my postgraduate studies, I worked as an Assistant Research Officer in the Economic Modeling and Statistical Analysis Department at the Central Bank of Ethiopia.
 
-Outside of my research, I enjoy painting and photography, which help me to maintain a healthy work-life balance. I also believe in the importance of giving back to the community, and I have volunteered with [insert the organizations with which you have volunteered].
+Outside of my research, I enjoy painting and photography, which help me to maintain a healthy work-life balance. I also believe in the importance of giving back to the community.
+<!--, and I have volunteered with [insert the organizations with which you have volunteered].-->
  
  ***
  
