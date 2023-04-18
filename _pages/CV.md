@@ -46,8 +46,6 @@ toc_icon: "gear"
 - Prepared presentations and reports summarizing research findings.
 
 
-## Work Experience
-
 ## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
 
 - PhD in Economics, University of Luxembourg, 2019 - 2023.
@@ -57,6 +55,12 @@ toc_icon: "gear"
 
 
 ## <i class='fas fa-briefcase' style='font-size:20px'></i> Work Experience
+### Doctoral Researcher in Economics and Machine Learning
+**University of Luxembourg** | Belval, Luxembourg | Feb 2019 - Present
+
+### Assistant Research officer
+**Central Bank of Ethiopia** | Addis Ababa, Ethiopia | Sep 2010 - Sep 2013
+
 - Doctoral Researcher, University of Luxembourg, 2019 - 2023.
 - Assistant Research officer, Central Bank of Ethiopia, 2010 - 2013.
 - Teaching Assistant, Haramaya University, 2009.
