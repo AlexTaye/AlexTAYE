@@ -16,6 +16,7 @@ toc_icon: "gear"
 <i class='fas fa-download' style='font-size:18px'></i> You can download my full <a target="_blank" href="/_pages/Taye_cv.pdf">Curriculum Vitae <i class="far fa-file-pdf"></i></a> here.
 
 ***
+<!--
 ## Work Experience
 
 ### Senior Data Analyst
@@ -44,7 +45,7 @@ toc_icon: "gear"
 - Assisted in developing econometric models to forecast economic growth and inflation.
 - Conducted statistical analysis on large datasets using R and Stata.
 - Prepared presentations and reports summarizing research findings.
-
+-->
 
 ## <i class='fas fa-graduation-cap' style='font-size:20px'></i> Education
 
@@ -55,12 +56,12 @@ toc_icon: "gear"
 
 
 ## <i class='fas fa-briefcase' style='font-size:20px'></i> Work Experience
-### Doctoral Researcher in Economics and Machine Learning
+<!--### Doctoral Researcher in Economics and Machine Learning
 **University of Luxembourg** | Belval, Luxembourg | Feb 2019 - Present
 
 ### Assistant Research officer
 **Central Bank of Ethiopia** | Addis Ababa, Ethiopia | Sep 2010 - Sep 2013
-
+-->
 - Doctoral Researcher, University of Luxembourg, 2019 - 2023.
 - Assistant Research officer, Central Bank of Ethiopia, 2010 - 2013.
 - Teaching Assistant, Haramaya University, 2009.
