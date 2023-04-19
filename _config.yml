@@ -99,7 +99,7 @@ social:
 analytics:
   provider               : "google-gtag"
   google:
-    tracking_id          : 
+    tracking_id          : "G-PJS63R41HN"
     anonymize_ip         : false
 
 
@@ -113,7 +113,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:alemsight@gmail.com
+      url: mailto:alemayehutaye.econ@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
