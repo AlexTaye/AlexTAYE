@@ -21,7 +21,7 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 **A machine learning approach to predict self-protecting behaviors during the early wave of the COVID-19 pandemic**  
 &nbsp; &nbsp;(joint with Liyousew G. Borga, Samuel Greiff, Claus Vögele, Conchita D’Ambrosio)<br> 
-&nbsp; &nbsp;*Forthcoming, Nature Scientific Reports, 2023*  
+&nbsp; &nbsp;*In Scientific Reports - Nature, 2023*  
 
 Using a unique harmonised real‐time data set from the COME-HERE longitudinal survey that covers five European countries (France, Germany, Italy, Spain, and Sweden) and applying a non-parametric machine learning model, we identify the main individual and macro-level predictors of self-protecting behaviours against the coronavirus disease 2019 (COVID-19) during the first wave of the pandemic. Exploiting the interpretability of a Random forest algorithm via Shapely values, we find that a higher regional incidence of COVID-19 triggers higher levels of self-protective behaviour, as does a stricter government policy response. The level of individual knowledge about the pandemic, confidence in institutions, and population density also ranks high among the factors that predict self-protecting behaviours. We also identify a steep socioeconomic gradient with lower levels of self-protecting behaviours being associated with lower income and poor housing conditions. Among socio-demographic factors, gender, marital status, age, and region of residence are the main determinants of self-protective measures.
 
