@@ -14,7 +14,7 @@ Welcome to my website!
 I am Alex Taye, a recent Ph.D. graduate and currently on the job market. Before that, I was a doctoral researcher in Economics at the <a href="https://wwwen.uni.lu/fdef/department_of_economics_and_management/"> University of Luxembourg</a> (Department of Economics and Management) in Data-driven Computational Modelling and Applications <a href="https://driven.uni.lu/team/"> (DRIVEN)</a> research team.
 <br>
 <br>
-My main research interest lies in the field of applied microeconomics, poverty, labour economics, and the intersection of machine learning and microeconometrics.
+My main research interest lies in the field of applied microeconomics, development and labour economics, inequality and well-being, household economics, the intersection of machine learning and microeconometrics.
 <br>
 <br>
 I worked extensively on topics such as predicting vulnerability to poverty, material and social deprivations and protective behaviours during a health crisis. I use cutting-edge machine learning algorithms augmented with state-of-the-art model
