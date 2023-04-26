@@ -17,13 +17,13 @@ minimal_mistakes_skin2   : "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Alemayehu D. Taye"
+title                    : "Alemayehu TAYE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dr. Alemayehu D. Taye"
+name                     : "Alemayehu TAYE"
 port                     : 4000
 host                     : "0.0.0.0"
-description              : "Dr. Alemayehu D. Taye"
+description              : "Alemayehu TAYE"
 url                      : #"https://fritz-io.github.io" ################# update it later
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Alemayehu D. Taye"
+  name             : "Alemayehu TAYE"
   avatar           : "/profile3.PNG"
   bio              : "University of Luxembourg"
   location         : "Belval, Luxembourg"
