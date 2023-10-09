@@ -94,6 +94,10 @@ areas :
 		"id": "ET",
 		"showAsSelected": true
 	},
+		{
+		"id": "IT",
+		"showAsSelected": true
+	},
 	{
 		"id": "KE",
 		"showAsSelected": true
