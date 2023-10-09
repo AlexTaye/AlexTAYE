@@ -83,7 +83,7 @@ areas :
 		"showAsSelected": true
 	},
 	{
-		"id": "TR",
+		"id": "IT",
 		"showAsSelected": true
 	},
 	{
